@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 Minhas ferramentas de desenvolvimento favoritas: NodeJS, Flutter & Python...
 
-No momento estou aprendendo: Flutter, PostgreSQL, React
+
 
 Dê uma olhada nos últimos repositórios que andei trabalhando ⚡⚡
