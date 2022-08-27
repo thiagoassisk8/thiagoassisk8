@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Minhas ferramentas de desenvolvimento favoritas: NodeJS, Flutter & Python...
-
+Minhas ferramentas de desenvolvimento favoritas: NodeJS, Flutter, Python & Java...
 
 
 Dê uma olhada nos últimos repositórios que andei trabalhando ⚡⚡
